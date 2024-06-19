@@ -1,6 +1,8 @@
 # Java Structural Similarity (jssim)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![](https://img.shields.io/badge/license-MIT-green)
 
 A java structural similarity (http://en.wikipedia.org/wiki/Structural_similarity) implementation 
 
